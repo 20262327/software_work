@@ -1,8 +1,0 @@
-a=int(input())
-b=int(input())
-c=int(input())
-cheap1=min(a,b,c)
-d=int(input())
-e=int(input())
-cheap2=min(d,e)
-print(cheap1+cheap2-50)
